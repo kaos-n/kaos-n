@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning ... programming
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<3ce775>
 
-[AndroidStudio]https://img.shields.io/badge/dynamic/json?url=<URL>&label=<AndroidStudio>&query=<$.DATA.SUBDATA>&color=<-3ce775>&prefix=<PREFIX>&suffix=<SUFFIX>
+
+[AndroidStudio](https://img.shields.io/badge/AndroirStudio-3ce775?style=plastic&logo=android?logoColor=white?labelColor=abcdef)
